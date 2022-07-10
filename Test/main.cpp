@@ -7,5 +7,6 @@ int main()
 	cout << "My age is 30 !\n"; 
 	cout << "My favourite fruit is apple!\n";
 	cout << "在本地增加第一句。\n";
+	cout << "在本地增加第二句。\n";
 	return 0;
 }
