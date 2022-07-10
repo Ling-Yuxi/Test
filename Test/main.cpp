@@ -8,6 +8,7 @@ int main()
 	cout << "My favourite fruit is apple!\n";
 	cout << "在本地增加第一句。\n";
 	cout << "在本地增加第二句。\n";
+	cout << "在本地增加第三句！\n";
 	cout << "在github增加第一句。\n";
 	return 0;
 }
