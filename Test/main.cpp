@@ -6,7 +6,8 @@ int main()
 	cout << "My name is Ling_Yuxi!\n";
 	cout << "My age is 30 !\n"; 
 	cout << "My favourite fruit is apple!\n";
-	cout << "�ڱ������ӵ�һ�䡣\n";
-	cout << "�ڱ������ӵڶ��䡣\n";
+	cout << "在本地增加第一句。\n";
+	cout << "在本地增加第二句。\n";
+	cout << "在github增加第一句。\n";
 	return 0;
 }
